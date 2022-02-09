@@ -1,6 +1,6 @@
 # MLPClassifier_wineDataset
 
-    PCA(Principle Component Analysis) For Wine dataset in ML
+   MLP(Multi-layer Perceptron classifier) For Wine dataset in DNN
 
 Requirements
 
